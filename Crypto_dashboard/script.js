@@ -37,4 +37,4 @@ async function Crypto() {
 
     })
 }
-console.log(Crypto())
+Crypto()
